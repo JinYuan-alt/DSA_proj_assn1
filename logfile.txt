@@ -1,0 +1,11 @@
+232499R,added: 10003,added: 10004,deleted: 10009deleted: 10006deleted: 10007
+number of login attempts: 1
+232499R,added: 10003, added: 10004,
+number of login attempts: 1
+232499R,updated: 10003, updated: 10004, 
+number of login attempts: 1
+232499R,
+number of login attempts: 1
+232499R,
+number of login attempts: 1
+admin using: 232499R,

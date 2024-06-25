@@ -1,0 +1,65 @@
+232499R,added: 10003,added: 10004,deleted: 10009deleted: 10006deleted: 10007
+number of login attempts: 1
+232499R,added: 10003, added: 10004,
+number of login attempts: 1
+232499R,updated: 10003, updated: 10004, 
+number of login attempts: 1
+232499R,
+number of login attempts: 1
+232499R,
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,added: 10007, 
+number of login attempts: 1
+admin using: 232499R,updated: 10008, deleted: 10008, 
+number of login attempts: 1
+admin using: 232499R,added: 10009, added: 10007, added: 10008, updated: 10008, updated: 10009, updated: 10009, deleted: 10009, deleted: 10007, deleted: 10008, 
+number of login attempts: 1
+admin using: 232499R,added: 10007, added: 10008, updated: 10007, 
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,updated: 10008, updated: 10008, deleted: 10007, deleted: 10008, 
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,added: 10006, deleted: 10006, 
+number of login attempts: 1
+admin using: 232499R,added: 10006, 
+number of login attempts: 1
+admin using: 232499R,
+number of login attempts: 1
+admin using: 232499R,added: 10009, added: 10007, added: 10008, 
+number of login attempts: 1
+admin using: 232499R, deleted: 10009, deleted: 10008, deleted: 10007, deleted: 10006, 
+number of login attempts: 1
+admin using: 232499R, added: 10009, added: 10007, added: 10008, deleted: 10008, deleted: 10009, deleted: 10007, 
+number of login attempts: 1
+admin using: 232499R, 
+number of login attempts: 1
+admin using: 117655F, 
+number of login attempts: 1
+admin using: 232499R, 
+number of login attempts: 1
+admin using: 232499R, 
+number of login attempts: 1
+admin using: 232499R, 
+number of login attempts: 1
+admin using: 232499R, 
+number of login attempts: 1
+admin using: 232499R, deleted: 10005, 
+number of login attempts: 1
+admin using: 232499R, updated: 10002, deleted: 10004, 
+number of login attempts: 8
+admin using: 117655F, 
